@@ -1,9 +1,13 @@
 Para Backend Django:
-  python manage.py runserver
+  
+  **python manage.py runserver**
+
 el Backend por defecto estará en http://localhost:8000/
 
 Para Frontend React:
-  npm start
+
+  **npm start**
+  
 el Frontend por defecto estará en http://localhost:3000/
 
 Navegar a http://localhost:3000/ e introducir los datos.
